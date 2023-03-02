@@ -1,0 +1,55 @@
+img {
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: cover;
+
+
+}
+
+
+h1 {
+    color: #ff4411;
+    font-size: 90px;
+    font-family: 'Signika', sans-serif;
+    padding-bottom: 60px;
+    text-align: center;
+}
+
+
+
+
+h1 {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+h2{
+    color: #ff4411;
+    font-size: 90px;
+    font-family: 'Signika', sans-serif;
+    padding-bottom: 60px;
+    text-align: center;
+}
+h2{
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+
+
+
+
+
+button {
+
+
+    font-size: 40px;
+    position: absolute;
+    top: 70%;
+    left: 40%;
+}
+
+
