@@ -1,3 +1,7 @@
+*{
+    padding: 0%;
+  padding-left: 0%;
+}
 img {
     min-width: 100%;
     min-height: 100%;
@@ -51,5 +55,4 @@ button {
     top: 70%;
     left: 40%;
 }
-
 
